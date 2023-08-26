@@ -1,4 +1,0 @@
-{
-  "*.{js,jsx,ts,tsx}": ["yarn format", "eslint"],
-  "*.scss": ["yarn format", "stylelint"]
-}

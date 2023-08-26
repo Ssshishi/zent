@@ -1,8 +1,0 @@
-// This config is for site/webpack.config.js
-{
-  "extends": "./tsconfig.base.json",
-  "compilerOptions": {
-    "composite": true,
-    "incremental": true
-  }
-}
